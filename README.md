@@ -336,3 +336,13 @@ Se implementó una arquitectura real separando:
 * visualización (visualizacion1)
 
 usando flujo profesional con GitHub y despliegue en infraestructura virtual.
+
+# PARTE 9: EVIDENCIA
+
+* Entorno local:
+
+  <img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/c1b742ff-f96e-4961-8fa2-888f1a8f6ff1" />
+  
+
+
+
