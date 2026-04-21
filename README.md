@@ -339,10 +339,16 @@ usando flujo profesional con GitHub y despliegue en infraestructura virtual.
 
 # PARTE 9: EVIDENCIA
 
-* Entorno local:
+* Entorno local en la carpeta Visualización:
 
   <img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/c1b742ff-f96e-4961-8fa2-888f1a8f6ff1" />
+
   
+* Entorno local en la carpeta API:
+
+  <img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/1db8ae9e-5f9e-4c75-af37-f8918b6cc4c0" />
+  
+
 
 
 
