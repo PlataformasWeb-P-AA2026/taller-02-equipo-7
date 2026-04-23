@@ -152,6 +152,11 @@ streamlit run app.py
 
 * Importante verificar que todo funcione en el local, para pasar a la siguiente fase
 
+<img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/184e16df-07d2-4f06-918b-c361d5d2d93b" />
+
+<img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/7663175a-be3a-48dd-955c-005d8fd18f86" />
+
+
 ## 6. Agregar archivos importantes
 
 * Crear un archivo requeriments.txt con pip freeze
@@ -326,6 +331,10 @@ streamlit run app.py --server.address 0.0.0.0
   * En función de la IP del server de visualización, verificar que todo funcione
   * Agregar capturas de pantalla del funcionamiento de todas las máquinas virtuales, API funcionando, Streamlit funcionando, base de datos con datos
   * Agregar las capturas de pantalla en un archivo llamado EVIDENCIAS.md
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/8eb87035-204f-4601-a249-5a41fad6d509" />
+
+Explicacion: Aqui se puede observar las 3 maquina virtuales funcionando
 
 ---
 
